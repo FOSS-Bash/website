@@ -1,0 +1,14 @@
+header.main {
+  padding: 20px 0;
+  background: #2c3e50;
+  color: #fff;
+}
+
+header.main h1 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+header.main .lead {
+  font-weight: 300;
+}
